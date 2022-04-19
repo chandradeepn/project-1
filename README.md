@@ -2,7 +2,7 @@ HOTEL MANAGEMENT SYSTEM:
 
 DESCRPTION OF THE PROJECT
 
-Under The Hotel Management System (HMS) Each Group will have below moduels under Hotel Management System Project- Each group comprising of 6 or 5 associates- 1. Admin Module to add Users - This module will be developed by (1) or (2) associates in group 2. Receptionist Module - This module will be developed by 2 associates in group 3. Customer Module - This module will be developed by 1 associates in group 4. Report Module - This module will be developed by 1 associates in group
+UNDER THE HOTEL MANAGEMENT SYSTEM (HMS) EACH GROUP WILL HAVE BELOW MODULES UNDER HOTEL MANAGEMENT SYSTEM PROJECT-EACH GROUP COMPRISING OF 6 OR 5 ASSOCIATES-1. ADMIN MODULE TO ADD USERS - THIS MODULE WILL DEVELOPED BY (1) OR (2) ASSOCIATES IN GROUP 2. RECEPTIONIST MODULE - THIS MODULE WILL BE DEVELOPED BY 2 ASSOCIATES IN GROUP 3. CUSTOMER MODULE - THIS MODULE WILL BE DEVELOPED BY 1 ASSOCIATES IN GROUP 4. REPORT MODULE - THIS MODULE WILL BE DEVELOPED BY 1 ASSOCIATES IN GROUP.
 
 
 TECHNOLOGGIES USED:
@@ -15,6 +15,8 @@ TECHNOLOGGIES USED:
 
 
 FEATURES:
+
+LIST OF FEATURES FOR READY AND TODOS FOR FUTURE DEVELOPEMENT
 
 THE CUSTOMER CAN BOOK HIS OWN ROOM
 
@@ -37,33 +39,56 @@ GETTING STARTED:
 
 HOW TO KEEP CODE IN GIT HUB
 
-git bash need to be installed first
+GIT BASH HAVE TO BE INSTALLED FIRST
 
-this is the git bash download link:https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/Git-2.35.3-64-bit.exe
+THE GIT BASH DOWNLOAD LINK IS:https://github.com/git-for-windows/git/releases/download/v2.35.3.windows.1/Git-2.35.3-64-bit.exe
 
-while installing bash we have to see:Credential Manager - dont select -- select none
+DURING INSTALLATION OF GIT BASH WE HAVE TO FOLLOW ONE STEP:Credential Manager - dont select -- select none
 
-after that we have to open bash and then enter the command:git clone https://github.com/gangadharparde/Group1
+CREATE ONE FOLDER AND THEN OPEN THE GIT BASH IN THAT FOLDER BY CLICKING RIGHT CLICK AND THEN ENTER THE COMMAND:git clone https://github.com/gangadharparde/Group1
 
-after that we have to give command:cd foldername/
+AFTER THAT WE HAVE TO ADD DATA IN README.MD FILE
 
-after that command is:git status
+AFTER THAVE GIVE THE FOLDERS AND THE DATA OF YOUR PROJECT IN THE MAIN FOLDER
 
-after that command is:git add .(if we want to add files addtionally)
+AFTER THAT WE HAVE TO CREATE A TOKEN IN GIT HUB BY GOING TO SETTINGS TEHN DEVELOPER TOOLS THEN GENERATE TOKEN THEIR ENTER NODE NAME QAND SELECT ALL TICKBOXES AND THE GENEREATE TOKEN THEN COPY THE TOKEN SO IT IS USED FOR FEATURE PURPOSE
 
-after that command is:git commit -m"project name"
+ENTER COMMAND IN GIT BBASH:cd foldername/
 
-after that command is:git push
+THEN ENTER THE COMMAND:git status
 
-after that we have to enetr email id and password which is generated token value
+IF THE DATA IS GOING TO ADD SOME MORE THEN ENTER THE NEXT COMMAND
 
-then the folder is added into github
+COMMAND IS:git add .
+
+THEN USE THIS COMMAND NAME:git commit -m"project name"
+
+AFTER THAT IF THE USER NAME AND MAIL ID IS NOT ENTERED THEN ENTER THE COMMANDS ARE:git config --global user.email "nchandradeep1@gmail.com"
+                                                                                   git config --global user.NAME  "your name"
+
+
+THEN COMMAND IS:git push
+
+THEN ENTER THE MAILID IN THE REQUIRED FIELD AND THEN ENTER THE TOKEN IN THE ENTER PASSWORD
+
+THEN FOLDER IS ADDED INTO THE GIT HUB
 
 
 USAGE:
 
-DOWNLOAD THE ECLIPSE IN YOUR LAPTOP AND THEN OPEN THE FILES IN ECLIPSE AND RUN IT THEN THE CODE WILL RUN
+WHEN WE ENTER INTO SITE IT WILL SHOW THE INDEX OF CONTANING SIX OPTIONS
 
+FIRST OPTION IS SEE AVALIABLE ROOMS THE USER CAN SEE  THE AVAILABLE ROOMS IN FOUR ROOM TYPES
+
+SECOND OPTION IS GUEST REGISTRATION HERE THE USER CAN REGISTER ROOM ON HIS OWN
+
+THIRD OPTION IS BOOK BY RECPTIONIST NUMBER WHEN THE USER CAN'T REGISTER ON HIS OWN THEN THE ROOM REGISTRATION CAN BE DONE BY THE RECEPTIONIST
+
+FOURTH OTION IS TOTAL BILL OF GUEST HERE THE USER CAN KNOW THE BILL TILL HE STAYED IN THE HOTEL
+
+FIFTH OTION IS SERVICES FOR GUEST FOR SUPPOSE IF THE PERSON WANT TO GET SOME SERVICES THEN THE SEVICES ARE THESE FOOD,BEVARAGES,LAUNDRY AND CAB.
+
+SIXST OPTION IS BOOKING INFORMATION IT WILL SHOW ME THE FULL DATA
 
 CONTRIBUTORS:
 
@@ -74,3 +99,5 @@ NANDINI
 CHANDRADEEP
 
 FAZAL
+
+THARUN VIKAS
